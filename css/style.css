@@ -1,0 +1,14 @@
+div {
+    margin: 8px
+}
+button {
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+body {
+    background-color: rgb(17, 140, 197);
+}
+input {
+    border-radius: 15px;
+    padding: 5px;
+}
